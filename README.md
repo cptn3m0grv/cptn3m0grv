@@ -1,12 +1,12 @@
 ### Hi 👋 I am Gaurav Goyal !
 
-<style>
+`<style>
   #intro{
     border: 2px solid red;
   }
-</style>
+</style>`
 
-<p class="intro">I am a computer science student  who is passionate about learning various technologies in computer science. I have learnt about various fields till date, including DevOps, Hybrid Cloud, Mobile application development, Machine Learning, Web Development, Ansible etc. I have worked on programming languages like C, C++, Python, Dart, Java, JavaScript.</p>
+`<p class="intro">I am a computer science student  who is passionate about learning various technologies in computer science. I have learnt about various fields till date, including DevOps, Hybrid Cloud, Mobile application development, Machine Learning, Web Development, Ansible etc. I have worked on programming languages like C, C++, Python, Dart, Java, JavaScript.</p>`
 
 <!--
 **cptn3m0grv/cptn3m0grv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
