@@ -24,3 +24,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+[<img align="left" alt="gauravGoyal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="gauravGoyal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+[twitter]: https://twitter.com/grvg007
+[linkedin]: https://www.linkedin.com/in/gaurav-goyal-4a850a173/
