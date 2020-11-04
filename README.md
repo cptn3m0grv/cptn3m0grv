@@ -7,6 +7,8 @@
   }
 </style>`
 -->
+<script src="https://tryhackme.com/badge/24379"></script>
+
 I am a computer science student  who is passionate about learning various technologies in computer science. I have learnt about various fields till date, including DevOps, Hybrid Cloud, Mobile application development, Machine Learning, Web Development, Ansible etc. I have worked on programming languages like C, C++, Python, Dart, Java, JavaScript.`
 
 <!--
