@@ -45,11 +45,6 @@ Here are some ideas to get you started:
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cptn3m0grv&layout=compact&theme=radical" alt="cptn3m0grv" /></p>
 </div>
 
-<a href="https://github.com/cptn3m0grv/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=cptn3m0grv&column=4&layout=compact&theme=gruvbox&no-frame=true"/>
-</a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cptn3m0grv&label=Profile%20views&color=0e75b6&style=flat" alt="cptn3m0grv" /> </p>
 
 ## Visitor count
