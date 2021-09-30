@@ -47,13 +47,5 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cptn3m0grv&label=Profile%20views&color=0e75b6&style=flat" alt="cptn3m0grv" /> </p>
 
-## Visitor count
-
-<div>
-<p > 
-  <img src="https://profile-counter.glitch.me/cptn3m0grv/count.svg" />
-</p>
-</div>
-
 [twitter]: https://twitter.com/grvg007
 [linkedin]: https://www.linkedin.com/in/gaurav-goyal-4a850a173/
