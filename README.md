@@ -6,13 +6,13 @@ I am a final year computer science student  who is passionate about learning var
 **cptn3m0grv/cptn3m0grv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 
 - 🔭 I’m currently working on enhancing my Data Structures Skills and becoming a full stack developer.
 - 🌱 I’m currently learning a lot of things,
 - 👯 I’m looking to collaborate on a cool project which may include the integration of cloud, devops, web development, mobile app development.
 - 💬 Ask me about anything 😜
-- 📫 How to reach me: [linkedIn] [twitter]
+- 📫 How to reach me: [linkedIn] [twitter] -->
 
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
