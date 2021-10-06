@@ -1,8 +1,8 @@
 ### Hi 👋 I am Gaurav Goyal !
-
+<!--
 I am a final year computer science student  who is passionate about learning various technologies in the computer science domain. I have hands-on experience in the various fields of computer science, including DevOps, Hybrid Cloud, Mobile application development, Machine Learning, Web Development, Ansible, Cyber Security.
 
-<!--
+
 **cptn3m0grv/cptn3m0grv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
