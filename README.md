@@ -1,5 +1,5 @@
 ### Hi 👋 I am Gaurav Goyal !
-## I am a SDET-1 @ Safe Security
+## I am a SDET-2 @ Safe Security
 <!--
 I am a final year computer science student  who is passionate about learning various technologies in the computer science domain. I have hands-on experience in the various fields of computer science, including DevOps, Hybrid Cloud, Mobile application development, Machine Learning, Web Development, Ansible, Cyber Security.
 
